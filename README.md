@@ -25,9 +25,9 @@ Me especializo en construir soluciones digitales robustas y escalables. Mi enfoq
 ---
 
 ### 📊 Mis Estadísticas de GitHub
-Aquí es donde los reclutadores ven tu actividad real:
 
 ![Estadísticas de Andrés](https://github-readme-stats.vercel.app/api?username=andfel1996-commits&show_icons=true&theme=tokyonight)
+
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=andfel1996-commits&layout=compact&theme=tokyonight)
 
 ---
